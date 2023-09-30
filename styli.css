@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+    background-color: #FFA900;
+    color: #4573D5;
+}
+.link-nav{
+    color: #BF8F30;
+    font-size:15px;
+}
+.link-header{
+    color: #2A4580;
+    font-size:15px;
+}
+.link-header:hover{
+    color: FloralWhite;
+    font-size:30px ;
+    transition: all 3s linear;
+}
+.link-nav:hover{
+    color:#FFCF73;
+    font-size:30px ;
+    transition: all 3s linear;
+}
